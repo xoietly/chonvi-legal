@@ -1,6 +1,6 @@
 📜 Terms of Service (TOS) for CHONVI
 
-Effective Date: [Insert Date]
+Effective Date: [8/20/2025]
 
 Welcome to CHONVI! By using this bot, you agree to the following terms:
 	1.	Usage
